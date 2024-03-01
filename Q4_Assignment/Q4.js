@@ -3,4 +3,4 @@
 // following, including the quotation marks:
 // Albert Einstein once said, “A person who never made a mistake never tried anything new.”
 let name1 = "Hazrat Ali Said";
-console.log(`${name1}, "Through patience, great things are accomplished."`);
+console.log(`${name1}, "Nations are born in the hearts of poets, they prosper and die in the hands of politicians."`);
